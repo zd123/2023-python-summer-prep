@@ -3,10 +3,6 @@
 
 # Update your fork with week-04 files
 
-1. Updating your fork.
-	* `git fetch upstream`
-	* `git merge upstream/main`
-
 # Agenda 
 1. Review last weeks HW
 2. Build a random name picker
